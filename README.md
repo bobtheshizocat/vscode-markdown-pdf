@@ -1,6 +1,8 @@
 # Markdown PDF
 
-This extension converts Markdown files to pdf, html, png or jpeg files.
+Added Latex Support [https://github.com/zubairy/general_repository/issues/1](https://github.com/zubairy/rhapsody/issues/1#issue-613977865)
+
+This extension converts Markdown files to pdf, html, png or jpeg files.\
 [default README](README.df.md)
 [Japanese README](README.ja.md)
 
